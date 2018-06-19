@@ -1,1 +1,3 @@
 Try to use git
+file changed
+add New feature
